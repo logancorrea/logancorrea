@@ -1,4 +1,4 @@
-# Project Portfolio
+# GitHub Portfolio
 
 Welcome to my GitHub portfolio! This page serves as an overview of the various projects I've completed throughout my graduate studies. Each project is hosted in its own dedicated repository, containing the code, data, and a detailed report outlining the objectives, methodology, results, and insights. This portfolio highlights my work in areas such as machine learning, data visualization, and biomedical informatics. The projects demonstrate my ability to analyze complex datasets, develop computational models, and create meaningful visualizations. Each project reflects the application of advanced data science techniques to solve real-world problems.
 
