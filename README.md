@@ -6,20 +6,17 @@ Welcome to my GitHub portfolio! This page serves as an overview of the various p
 
 ## Projects Overview
 
-### 1. [Applied Machine Learning - Demographic Determinants of Depression](https://github.com/logancorrea/Applied-Machine-Learning)
+### 1. [Applied Machine Learning - Demographic Determinants of Depression](https://github.com/logancorrea/Demographic-Determinants-of-Depression)
    - **Description:** Implemented machine learning models to analyze and predict depression outcomes using Mental Health Client-Level Data (SAMHSA).
    - **Technologies:** Python, Scikit-Learn, SHAP, Optuna.
-   - **Repository:** [VIEW REPOSITORY](https://github.com/logancorrea/Applied-Machine-Learning)
 
-### 2. [Applied Data Visualization - A Data-Driven Look at Earthquake Risk in Utah](https://github.com/logancorrea/Data-Visualization)
+### 2. [Applied Data Visualization - A Data-Driven Look at Earthquake Risk in Utah](https://github.com/logancorrea/Earthquake-Risk-in-Utah)
    - **Description:** Developed interactive and static visualizations to uncover insights into earthquake risk in Utah.
    - **Technologies:** Python, Matplotlib, GeoPandas, Vega-Altair, Plotly.
-   - **Repository:** [VIEW REPOSITORY](https://github.com/logancorrea/Data-Visualization)
 
-### 3. [Biomedical Probability and Statistics - Gene Expression in Lung Squamous Cell Carcinoma (LUSC)](https://github.com/logancorrea/Biomedical-Probability-and-Statistics)
+### 3. [Biomedical Probability and Statistics - Gene Expression in Lung Squamous Cell Carcinoma (LUSC)](https://github.com/logancorrea/LUSC-Gene-Expression)
    - **Description:** Utilized clinical datasets to analyze gene expression and identify predictive biomarkers for LUSC using PCA and logistic regression on genomic data.
    - **Technologies:** R
-   - **Repository:** [VIEW REPOSITORY](https://github.com/logancorrea/Biomedical-Probability-and-Statistics)
 
 ---
 
