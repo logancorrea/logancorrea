@@ -4,15 +4,6 @@ Welcome to my GitHub portfolio! This page serves as an overview of the various p
 
 ---
 
-## Table of Contents
-
-- [About This Portfolio](#about-this-portfolio)
-- [Projects Overview](#projects-overview)
-- [How to Explore](#how-to-explore)
-- [Contact Information](#contact-information)
-
----
-
 ## About This Portfolio
 
 This portfolio highlights my work in areas such as machine learning, data visualization, and biomedical informatics. The projects demonstrate my ability to analyze complex datasets, develop computational models, and create meaningful visualizations. Each project reflects the application of advanced data science techniques to solve real-world problems.
