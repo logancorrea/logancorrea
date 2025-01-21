@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! This page serves as an overview of the various p
 
 ### 1. [Applied Machine Learning - Demographic Determinants of Depression](https://github.com/logancorrea/Demographic-Determinants-of-Depression)
    - **Description:** Implemented machine learning models to analyze and predict depression outcomes using Mental Health Client-Level Data (SAMHSA).
-   - **Technologies:** Python, Scikit-Learn, SHAP, Optuna.
+   - **Technologies:** Python, Scikit-Learn, SHAP, Optuna, Logistic Regression, Random Forest, Gradient Boosting, Hierarchical Clustering, K-Modes Clustering, Multi Correspondence Analysis (MCA).
 
 ### 2. [Applied Data Visualization - A Data-Driven Look at Earthquake Risk in Utah](https://github.com/logancorrea/Earthquake-Risk-in-Utah)
    - **Description:** Developed interactive and static visualizations to uncover insights into earthquake risk in Utah.
