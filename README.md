@@ -18,6 +18,14 @@ Welcome to my GitHub portfolio! This page serves as an overview of the various p
    - **Description:** Utilized clinical datasets to analyze gene expression and identify predictive biomarkers for LUSC using PCA and logistic regression on genomic data.
    - **Technologies:** R
 
+### 4. [Clinical Database Design - Genetic Testing Center](https://github.com/logancorrea/Clinical-Database-Design)
+   - **Description:** Designed an example relational database for a genetic testing center to manage patient data, familial controls, specimens, test results, and genetic variants.
+   - **Key Features:**
+     - Conceptual and logical database models.
+     - DDL implementation for tables and constraints.
+     - SQL queries to extract meaningful insights from the database.
+   - **Technologies:** SQLite, SQL, Database Design.
+
 ---
 
 ## How to Explore
